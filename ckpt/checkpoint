@@ -1,0 +1,6 @@
+model_checkpoint_path: "423ner.ckpt"
+all_model_checkpoint_paths: "419ner.ckpt"
+all_model_checkpoint_paths: "420ner.ckpt"
+all_model_checkpoint_paths: "421ner.ckpt"
+all_model_checkpoint_paths: "422ner.ckpt"
+all_model_checkpoint_paths: "423ner.ckpt"
